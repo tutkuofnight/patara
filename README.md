@@ -11,7 +11,7 @@ Bu mülakat projesi aşağıdaki teknolojiler kullanılarak geliştirildi:
 ### Projeyi Çalıştırın
 
 ```bash
-git clone ~
+git clone https://github.com/tutkuofnight/patara.git
 ```
 
 
