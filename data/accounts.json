@@ -1,0 +1,1002 @@
+[
+  {
+    "wallet_id": "0x68793c396780b4e483fc507388599947dc35ff27",
+    "amount_in": 1.85,
+    "amount_out": 0.0,
+    "price": 1853.1,
+    "value": 10841.22,
+    "earned_fee": 50.99,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x9d02d2a4cebfe686ee4ff1ff67018aedf7d25154",
+    "amount_in": 0.38,
+    "amount_out": 0.0,
+    "price": 1072.17,
+    "value": 407.42,
+    "earned_fee": 1.25,
+    "time": "1 year ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x677e1ba6a3ede11d93163e0b65f5a91b711279fe",
+    "amount_in": 1.43,
+    "amount_out": 0.0,
+    "price": 2525.42,
+    "value": 8662.19,
+    "earned_fee": 52.6,
+    "time": "1 months ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xd32def476cdc5a5a4268cc3555c910df5286d1a8",
+    "amount_in": 1.92,
+    "amount_out": 0.0,
+    "price": 1592.78,
+    "value": 9429.26,
+    "earned_fee": 35.57,
+    "time": "1 months ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x6536b197f3610e41886d883a64fda37d3f7affbc",
+    "amount_in": 1.19,
+    "amount_out": 0.0,
+    "price": 1082.74,
+    "value": 2371.1,
+    "earned_fee": 8.17,
+    "time": "1 year ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x0f686fc1b9343481e80c5f4efa9b2ef93d2a6d4b",
+    "amount_in": 6.32,
+    "amount_out": 0.0,
+    "price": 2524.1,
+    "value": 15952.94,
+    "earned_fee": 78.99,
+    "time": "1 hours ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x3e702667041d7865518fb9d84ef47e5ea6dbbbd9",
+    "amount_in": 9.22,
+    "amount_out": 0.0,
+    "price": 2646.79,
+    "value": 24403.4,
+    "earned_fee": 60.71,
+    "time": "1 year ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x081722b8a237ff70558ab9e9746bdc96fd260629",
+    "amount_in": 9.84,
+    "amount_out": 0.0,
+    "price": 2675.67,
+    "value": 26328.59,
+    "earned_fee": 130.26,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xdfa39a2eb03df03f524bf31ebea1d25f092f7517",
+    "amount_in": 1.4,
+    "amount_out": 0.0,
+    "price": 2307.49,
+    "value": 12460.45,
+    "earned_fee": 55.18,
+    "time": "1 months ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x2a4e242787c623776c57ee482d563a3f02e9d18d",
+    "amount_in": 1.06,
+    "amount_out": 0.0,
+    "price": 1163.33,
+    "value": 3559.79,
+    "earned_fee": 20.12,
+    "time": "1 months ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xeb8c30e84b1eb6bfa651264b5fcf591aedc02323",
+    "amount_in": 7.64,
+    "amount_out": 0.0,
+    "price": 2160.93,
+    "value": 16509.51,
+    "earned_fee": 37.56,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xfa6f3ce35e72cf1c36c39add6ef1641764b2c199",
+    "amount_in": 0.33,
+    "amount_out": 0.0,
+    "price": 2979.02,
+    "value": 983.08,
+    "earned_fee": 1.14,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x18ff7c983956d4c5a3b10db28490bb5cb555aba1",
+    "amount_in": 0.83,
+    "amount_out": 0.0,
+    "price": 1126.41,
+    "value": 934.92,
+    "earned_fee": 1.61,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xeb14eb184d8e2df11d6e5ae0b17f19ac7d2e8544",
+    "amount_in": 6.41,
+    "amount_out": 0.0,
+    "price": 1007.42,
+    "value": 6457.56,
+    "earned_fee": 49.04,
+    "time": "1 hours ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xfc9a105098aa1793c49afc740dc6e56c64a69ea4",
+    "amount_in": 1.96,
+    "amount_out": 0.0,
+    "price": 1534.7,
+    "value": 3008.01,
+    "earned_fee": 25.55,
+    "time": "1 days ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x0142427aec1c914b0abc3fd3305a4f36d5628c55",
+    "amount_in": 1.22,
+    "amount_out": 0.0,
+    "price": 2941.0,
+    "value": 6529.02,
+    "earned_fee": 37.14,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xd10f90a7d112deec938b7454f9ac4fdb85ec1fec",
+    "amount_in": 6.43,
+    "amount_out": 0.0,
+    "price": 2208.83,
+    "value": 14202.78,
+    "earned_fee": 54.02,
+    "time": "1 months ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xda85679a98ae20e29b8faf5cf3ed50e38485be35",
+    "amount_in": 1.16,
+    "amount_out": 0.0,
+    "price": 2259.11,
+    "value": 11657.01,
+    "earned_fee": 80.64,
+    "time": "1 year ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xed2200e5832df0c3c7f36e7bd39e1195fcd4aab2",
+    "amount_in": 1.73,
+    "amount_out": 0.0,
+    "price": 1459.36,
+    "value": 8362.13,
+    "earned_fee": 30.96,
+    "time": "1 hours ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x17ae347658f61e9b8457f1a5f04e199f955fb25a",
+    "amount_in": 1.14,
+    "amount_out": 0.0,
+    "price": 1871.92,
+    "value": 9621.67,
+    "earned_fee": 88.23,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x506c52b77da2498863bbe9879af6fb14d7d58d30",
+    "amount_in": 1.08,
+    "amount_out": 0.0,
+    "price": 2856.1,
+    "value": 14508.99,
+    "earned_fee": 29.43,
+    "time": "1 hours ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x44bf1bbdb561a9e902396b5544c34d147c0701b4",
+    "amount_in": 6.62,
+    "amount_out": 0.0,
+    "price": 1610.28,
+    "value": 10660.05,
+    "earned_fee": 89.34,
+    "time": "1 day ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xd0f5310ab7f2c81dab457fa6d741a29720fd5e2e",
+    "amount_in": 7.68,
+    "amount_out": 0.0,
+    "price": 1495.1,
+    "value": 11483.9,
+    "earned_fee": 92.1,
+    "time": "1 day ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x4c9ddcff426c12f7783e0dd04537bfb3b982bd43",
+    "amount_in": 1.74,
+    "amount_out": 0.0,
+    "price": 2353.38,
+    "value": 13508.4,
+    "earned_fee": 63.52,
+    "time": "1 week ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xbc2c65dcb4ae372c39e96989d7c6994c5bb6f297",
+    "amount_in": 1.13,
+    "amount_out": 0.0,
+    "price": 2706.03,
+    "value": 13881.93,
+    "earned_fee": 29.92,
+    "time": "1 week ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x3a0e19deb38c81060958e6c89150aac31bce682e",
+    "amount_in": 9.27,
+    "amount_out": 0.0,
+    "price": 1395.19,
+    "value": 12933.41,
+    "earned_fee": 92.17,
+    "time": "1 months ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x7ebbd14f562cb66d2fe9dbb9a2a5afad24bda8a9",
+    "amount_in": 4.05,
+    "amount_out": 0.0,
+    "price": 2796.98,
+    "value": 11327.77,
+    "earned_fee": 40.95,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xd71893085c98b2ab446a2f517d9ff26286aa2433",
+    "amount_in": 7.99,
+    "amount_out": 0.0,
+    "price": 1138.42,
+    "value": 9095.98,
+    "earned_fee": 73.97,
+    "time": "1 day ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xa09d901cad47e603c0e6258a1e7ffd33b7791b26",
+    "amount_in": 1.75,
+    "amount_out": 0.0,
+    "price": 1440.19,
+    "value": 8281.09,
+    "earned_fee": 47.45,
+    "time": "1 day ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x55f3489bfec68baa9faea581ef0338fe3d5ad88a",
+    "amount_in": 6.72,
+    "amount_out": 0.0,
+    "price": 1490.25,
+    "value": 10014.48,
+    "earned_fee": 21.17,
+    "time": "1 week ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x6a9cb0bad37f6af4fe79cb69a2d2d47e211c61ea",
+    "amount_in": 0.73,
+    "amount_out": 0.0,
+    "price": 2809.18,
+    "value": 2050.7,
+    "earned_fee": 9.13,
+    "time": "1 months ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x6a8c80d45778c7801dbeed9d49194f690a57ff93",
+    "amount_in": 1.44,
+    "amount_out": 0.0,
+    "price": 1253.68,
+    "value": 1805.1,
+    "earned_fee": 10.05,
+    "time": "1 hours ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x808df4313c51bb7955a89368729af6fe63d125da",
+    "amount_in": 4.46,
+    "amount_out": 0.0,
+    "price": 1778.8,
+    "value": 7933.45,
+    "earned_fee": 44.59,
+    "time": "1 hours ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xdab54bdc24e227504339e725d0d90451ef9155f4",
+    "amount_in": 8.79,
+    "amount_out": 0.0,
+    "price": 2527.8,
+    "value": 22219.36,
+    "earned_fee": 187.63,
+    "time": "1 day ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xe577aa21d21a77c5f506785589d14eef16ba6a61",
+    "amount_in": 0.82,
+    "amount_out": 0.0,
+    "price": 2882.73,
+    "value": 2363.84,
+    "earned_fee": 11.82,
+    "time": "1 year ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xc27ca21b334547d5ce8ebb933fc3d5521e95bb06",
+    "amount_in": 0.96,
+    "amount_out": 0.0,
+    "price": 2004.89,
+    "value": 1924.69,
+    "earned_fee": 15.63,
+    "time": "1 months ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x341929da1f4325dda222b276f9a56207fb49775e",
+    "amount_in": 6.53,
+    "amount_out": 0.0,
+    "price": 1291.29,
+    "value": 8432.12,
+    "earned_fee": 25.4,
+    "time": "1 months ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x28651312b1bc47bf6f813bae4f4d34b5baeb7130",
+    "amount_in": 1.71,
+    "amount_out": 0.0,
+    "price": 1218.67,
+    "value": 4521.27,
+    "earned_fee": 43.36,
+    "time": "1 day ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x17ab91012f44db648eba9b9b1238c746109ad6e6",
+    "amount_in": 7.41,
+    "amount_out": 0.0,
+    "price": 2367.29,
+    "value": 17541.62,
+    "earned_fee": 53.41,
+    "time": "1 months ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xc1b09fa50ddefbe3691d9ba9259284a49eb10303",
+    "amount_in": 9.1,
+    "amount_out": 0.0,
+    "price": 1392.17,
+    "value": 12668.75,
+    "earned_fee": 55.38,
+    "time": "1 hours ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x6ea582187b92f154c8d7a102fa86a47529c624f6",
+    "amount_in": 4.14,
+    "amount_out": 0.0,
+    "price": 1735.98,
+    "value": 7186.96,
+    "earned_fee": 22.1,
+    "time": "1 year ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xfbeca30a5358571f0b4bb59ee81d2013d5606ee5",
+    "amount_in": 9.7,
+    "amount_out": 0.0,
+    "price": 1281.1,
+    "value": 12426.67,
+    "earned_fee": 117.61,
+    "time": "1 week ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x867f2794f203fcb904a374f569a234ab90387f41",
+    "amount_in": 7.52,
+    "amount_out": 0.0,
+    "price": 2190.38,
+    "value": 16471.66,
+    "earned_fee": 75.03,
+    "time": "1 day ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x49496bcd7fd0a02010c3a90e78ba47e3e45c5fa9",
+    "amount_in": 8.0,
+    "amount_out": 0.0,
+    "price": 2225.17,
+    "value": 17801.36,
+    "earned_fee": 131.04,
+    "time": "1 week ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x5b3093dd0e56a0ce23cfb8aad421dbe4462ec603",
+    "amount_in": 9.68,
+    "amount_out": 0.0,
+    "price": 2207.86,
+    "value": 21372.08,
+    "earned_fee": 52.82,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xc9ab4a9843afd208ccd76314c0ca1ce0d9a792af",
+    "amount_in": 1.46,
+    "amount_out": 0.0,
+    "price": 2467.15,
+    "value": 6069.19,
+    "earned_fee": 33.92,
+    "time": "1 months ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x7108c8a521250b652ff2371cdec59989b151500f",
+    "amount_in": 1.44,
+    "amount_out": 0.0,
+    "price": 1440.39,
+    "value": 2074.16,
+    "earned_fee": 14.18,
+    "time": "1 day ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x3ac18ce0ea3c9af7e3068ecb9da9505294e281de",
+    "amount_in": 7.88,
+    "amount_out": 0.0,
+    "price": 1664.02,
+    "value": 13112.48,
+    "earned_fee": 71.14,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x69cc1af4f889d594b6326fb6e18b27428400a018",
+    "amount_in": 6.0,
+    "amount_out": 0.0,
+    "price": 2910.44,
+    "value": 17462.64,
+    "earned_fee": 75.51,
+    "time": "1 year ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xd2f0954aa361c8c1d2d34b8a614e28cd4d03c676",
+    "amount_in": 1.26,
+    "amount_out": 0.0,
+    "price": 2142.81,
+    "value": 2699.94,
+    "earned_fee": 14.1,
+    "time": "1 hours ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xe7c880f61401854d9f1480c0ff6d1afbf7368f5c",
+    "amount_in": 1.56,
+    "amount_out": 0.0,
+    "price": 2358.67,
+    "value": 6038.1,
+    "earned_fee": 53.1,
+    "time": "1 day ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xe79524ea4cb7c08208b5e5a0c66e7aacfab92d18",
+    "amount_in": 1.85,
+    "amount_out": 0.0,
+    "price": 1114.77,
+    "value": 3177.09,
+    "earned_fee": 29.86,
+    "time": "1 hours ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xdc5cd01e6be9b3a352d7ccd5bacb7cd1f0ddcabe",
+    "amount_in": 8.45,
+    "amount_out": 0.0,
+    "price": 2499.37,
+    "value": 21119.68,
+    "earned_fee": 93.81,
+    "time": "1 day ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x87c8a4419f28aa0d435134fe552313a1493ab979",
+    "amount_in": 6.48,
+    "amount_out": 0.0,
+    "price": 2543.25,
+    "value": 16480.26,
+    "earned_fee": 147.23,
+    "time": "1 days ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x88841bb33a5b05c15e8a34b7facd600cf32db41d",
+    "amount_in": 1.97,
+    "amount_out": 0.0,
+    "price": 2211.26,
+    "value": 8778.7,
+    "earned_fee": 30.24,
+    "time": "1 months ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xd676e78474fbf928b4053d680d14eb3787ca5fb4",
+    "amount_in": 4.12,
+    "amount_out": 0.0,
+    "price": 1024.56,
+    "value": 4221.19,
+    "earned_fee": 31.15,
+    "time": "1 months ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xc2dc540298b27782a6c2bfc0a1081e0d639d94c3",
+    "amount_in": 4.94,
+    "amount_out": 0.0,
+    "price": 1823.12,
+    "value": 9006.21,
+    "earned_fee": 52.71,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x1fe718adb871a5c91752684be80c96f140d6a84d",
+    "amount_in": 9.22,
+    "amount_out": 0.0,
+    "price": 2136.4,
+    "value": 19697.61,
+    "earned_fee": 164.12,
+    "time": "1 months ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xbe334c90fd35ed02f8e7d3d1fe5db5b2dccea479",
+    "amount_in": 0.98,
+    "amount_out": 0.0,
+    "price": 2721.26,
+    "value": 2666.83,
+    "earned_fee": 7.33,
+    "time": "1 year ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x30d861aded70307ba2a12b5d1f910f44a235f6ac",
+    "amount_in": 1.73,
+    "amount_out": 0.0,
+    "price": 2360.27,
+    "value": 8803.81,
+    "earned_fee": 63.65,
+    "time": "1 year ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x31226f3bc647cb3c303322cf02efc82639a1d1e4",
+    "amount_in": 1.28,
+    "amount_out": 0.0,
+    "price": 1806.58,
+    "value": 5925.58,
+    "earned_fee": 16.74,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xeb7ed3ceb617f13a160d6e48ecfe3d857710384f",
+    "amount_in": 7.81,
+    "amount_out": 0.0,
+    "price": 2817.88,
+    "value": 22007.64,
+    "earned_fee": 141.72,
+    "time": "1 day ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x064b300cb9ba749dd4a79822c89c7c6a12354c4f",
+    "amount_in": 0.45,
+    "amount_out": 0.0,
+    "price": 2107.35,
+    "value": 948.31,
+    "earned_fee": 7.63,
+    "time": "1 days ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xb36ca5b2ec9ec343293eb47e26219b43410ac5fb",
+    "amount_in": 0.42,
+    "amount_out": 0.0,
+    "price": 1534.85,
+    "value": 644.64,
+    "earned_fee": 6.43,
+    "time": "1 week ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xf23360544f6220f23ffca22837f590b9a1b208ff",
+    "amount_in": 0.32,
+    "amount_out": 0.0,
+    "price": 1355.71,
+    "value": 433.83,
+    "earned_fee": 1.17,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x2c6769ecb371f040a35ffbf76083d40416a63cb6",
+    "amount_in": 6.31,
+    "amount_out": 0.0,
+    "price": 1273.32,
+    "value": 8034.65,
+    "earned_fee": 40.32,
+    "time": "1 hours ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x3b7ae926248fbd044a975ae5393826d6a341c7c8",
+    "amount_in": 1.4,
+    "amount_out": 0.0,
+    "price": 2465.1,
+    "value": 5917.1,
+    "earned_fee": 57.36,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x96b7a35991835661caeb24933e4a6c809319bb7b",
+    "amount_in": 4.33,
+    "amount_out": 0.0,
+    "price": 2710.54,
+    "value": 11736.64,
+    "earned_fee": 84.49,
+    "time": "1 day ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x71d39244dc2c98e6f9a4cc82d1a18de255934361",
+    "amount_in": 4.38,
+    "amount_out": 0.0,
+    "price": 2359.87,
+    "value": 10336.23,
+    "earned_fee": 59.85,
+    "time": "1 hours ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x7b046eb98ed60f8559b890629d3dd6b60a375713",
+    "amount_in": 8.63,
+    "amount_out": 0.0,
+    "price": 2529.06,
+    "value": 21825.79,
+    "earned_fee": 47.1,
+    "time": "1 hours ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xb6aa6cac127bdee77d19a067528eeae26e07c850",
+    "amount_in": 4.49,
+    "amount_out": 0.0,
+    "price": 2607.91,
+    "value": 11709.52,
+    "earned_fee": 84.57,
+    "time": "1 day ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xf862e68be9b05f98b9cacc061cf0ed5d2b79ce6c",
+    "amount_in": 6.37,
+    "amount_out": 0.0,
+    "price": 2619.49,
+    "value": 16686.15,
+    "earned_fee": 68.05,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x47318293b4caff227b9985ed5be0be8c48ab604f",
+    "amount_in": 1.96,
+    "amount_out": 0.0,
+    "price": 2813.85,
+    "value": 11142.85,
+    "earned_fee": 88.19,
+    "time": "1 hours ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xd001b077d8f9055c46a67c7db13df6cead0319f1",
+    "amount_in": 6.97,
+    "amount_out": 0.0,
+    "price": 1469.82,
+    "value": 10244.65,
+    "earned_fee": 98.72,
+    "time": "1 days ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x50a5e1951fefeaa0f44114933bf73a2a4aea59bf",
+    "amount_in": 1.91,
+    "amount_out": 0.0,
+    "price": 1585.73,
+    "value": 9371.66,
+    "earned_fee": 76.95,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x28d97f2e978b90bfaed9177affb671bd1ae7e646",
+    "amount_in": 4.95,
+    "amount_out": 0.0,
+    "price": 1641.23,
+    "value": 8124.09,
+    "earned_fee": 19.6,
+    "time": "1 year ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xccea9896df4e9db9dc3b38c9315c97782b73e633",
+    "amount_in": 9.98,
+    "amount_out": 0.0,
+    "price": 1520.01,
+    "value": 15169.7,
+    "earned_fee": 116.59,
+    "time": "1 day ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xe6d612d305ace72a2197d5bf840e1c993ed6fb71",
+    "amount_in": 4.24,
+    "amount_out": 0.0,
+    "price": 2032.16,
+    "value": 8616.36,
+    "earned_fee": 70.27,
+    "time": "1 week ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x25f780c2ab0c72dc22bcaa9f72b18952fc86bdfa",
+    "amount_in": 1.11,
+    "amount_out": 0.0,
+    "price": 2538.16,
+    "value": 7893.68,
+    "earned_fee": 42.66,
+    "time": "1 day ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x3e304a65d1cc72c084335fd770c65f975fa07fd9",
+    "amount_in": 0.62,
+    "amount_out": 0.0,
+    "price": 2680.63,
+    "value": 1661.99,
+    "earned_fee": 9.09,
+    "time": "1 hours ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x674f37ee825696b45077a0695238a1aae575d048",
+    "amount_in": 0.15,
+    "amount_out": 0.0,
+    "price": 1493.12,
+    "value": 223.97,
+    "earned_fee": 0.55,
+    "time": "1 year ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x1172bbe4170f74dda124c6173d5bb7667059ba5d",
+    "amount_in": 1.19,
+    "amount_out": 0.0,
+    "price": 2428.59,
+    "value": 12604.38,
+    "earned_fee": 58.28,
+    "time": "1 week ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0x87df881078c8d145ee3ac03ad2544af5b4ec280b",
+    "amount_in": 1.03,
+    "amount_out": 0.0,
+    "price": 2481.04,
+    "value": 2555.47,
+    "earned_fee": 12.84,
+    "time": "1 days ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xe6a8351ee07a428c704807f6658909208200b50d",
+    "amount_in": 9.64,
+    "amount_out": 0.0,
+    "price": 2462.13,
+    "value": 23734.93,
+    "earned_fee": 212.99,
+    "time": "1 year ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xe15f4cbd5f82f7166255d064dab8bfb18ced0774",
+    "amount_in": 1.47,
+    "amount_out": 0.0,
+    "price": 1821.04,
+    "value": 6319.01,
+    "earned_fee": 56.68,
+    "time": "1 year ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xcc4ace3639a595845f359aec63dde8a8e7319ab8",
+    "amount_in": 0.24,
+    "amount_out": 0.0,
+    "price": 1561.59,
+    "value": 374.78,
+    "earned_fee": 1.89,
+    "time": "1 day ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xf509a3881cefeec26bfa0dc981e4f094a03c207b",
+    "amount_in": 0.31,
+    "amount_out": 0.0,
+    "price": 1722.51,
+    "value": 533.98,
+    "earned_fee": 1.86,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xf36477a489340fc92debd630fc5eaf5c5af58d26",
+    "amount_in": 9.38,
+    "amount_out": 0.0,
+    "price": 2155.24,
+    "value": 20216.15,
+    "earned_fee": 66.05,
+    "time": "1 days ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0x99c7576acf86faa2e9ab44c722a1153abd4d8097",
+    "amount_in": 4.68,
+    "amount_out": 0.0,
+    "price": 2038.9,
+    "value": 9542.05,
+    "earned_fee": 44.07,
+    "time": "1 week ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0xdc325c913d25c10d2f84b5a64c8626bb29404c7b",
+    "amount_in": 1.35,
+    "amount_out": 0.0,
+    "price": 1485.14,
+    "value": 4975.22,
+    "earned_fee": 33.55,
+    "time": "1 months ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xd04a42e0f325cef6964ccd23c577baac3f5f33b1",
+    "amount_in": 4.57,
+    "amount_out": 0.0,
+    "price": 2452.35,
+    "value": 11207.24,
+    "earned_fee": 30.88,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xfca73aae3bd2b298ee14142ab0787eafbe85a708",
+    "amount_in": 8.79,
+    "amount_out": 0.0,
+    "price": 2258.68,
+    "value": 19853.8,
+    "earned_fee": 103.98,
+    "time": "1 year ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xda67f1504284f9984eb6285ff3d4dc47e2a7b3ad",
+    "amount_in": 0.13,
+    "amount_out": 0.0,
+    "price": 2123.97,
+    "value": 276.12,
+    "earned_fee": 1.63,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x10948b94e663bd86c63d8f993bc8101c793181c3",
+    "amount_in": 1.32,
+    "amount_out": 0.0,
+    "price": 2309.49,
+    "value": 7667.51,
+    "earned_fee": 53.77,
+    "time": "1 day ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xf3a225adbf4b0443897200a66619a75a12fb3eb1",
+    "amount_in": 1.79,
+    "amount_out": 0.0,
+    "price": 2640.14,
+    "value": 4725.85,
+    "earned_fee": 19.28,
+    "time": "1 months ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0xba8f7cee6aba60e29e078e25711cd128b1c2783c",
+    "amount_in": 1.8,
+    "amount_out": 0.0,
+    "price": 1000.48,
+    "value": 1800.86,
+    "earned_fee": 10.57,
+    "time": "1 hours ago",
+    "filter": "1Y"
+  },
+  {
+    "wallet_id": "0xa9c87fcf64272cd85e9ff54aa221f241600d2afb",
+    "amount_in": 6.03,
+    "amount_out": 0.0,
+    "price": 2849.95,
+    "value": 17185.1,
+    "earned_fee": 40.36,
+    "time": "1 days ago",
+    "filter": "1D"
+  },
+  {
+    "wallet_id": "0x30d60e5cde34b6ba6c882c85610d461521e5a40b",
+    "amount_in": 1.17,
+    "amount_out": 0.0,
+    "price": 2523.24,
+    "value": 2952.19,
+    "earned_fee": 7.88,
+    "time": "1 week ago",
+    "filter": "1W"
+  },
+  {
+    "wallet_id": "0xbb6f0129549e4d6b6db47d1196898cf9361c3777",
+    "amount_in": 4.66,
+    "amount_out": 0.0,
+    "price": 1219.44,
+    "value": 5682.59,
+    "earned_fee": 23.26,
+    "time": "1 week ago",
+    "filter": "1M"
+  },
+  {
+    "wallet_id": "0x0e945299d05c74708ae1c82aaa2b2c483ace2692",
+    "amount_in": 4.16,
+    "amount_out": 0.0,
+    "price": 2477.1,
+    "value": 10304.74,
+    "earned_fee": 93.37,
+    "time": "1 hours ago",
+    "filter": "1Y"
+  }
+]
